@@ -6,4 +6,4 @@ A SwiftUI-based iOS app integrated with Kotlin Multiplatform Mobile (KMM) to fet
 - Integrated with KMM for shared business logic.
 - Allows users to call contacts with a single tap.
 
-![Screenshot](/screenshot.png)
+<img src = "/screenshot.png" width = "300" height = "650">
